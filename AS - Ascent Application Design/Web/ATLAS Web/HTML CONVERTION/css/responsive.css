@@ -1,0 +1,104 @@
+@media screen and (min-width: 360px) and (max-width: 480px), (max-width: 640px) {
+.login-panel.panel.panel-default{width:100%;background-image:none;background-color:#283036;height:auto;}
+.panel-body{width:100%;position:static !important;}
+.logo-margin{margin:0;}
+.form-group{margin-bottom:20px;}
+.login-cont select, .login-cont input{width:89%;}
+.panel-body{margin:70px 0 0;padding-top: 90px;}
+.login-logo {left: 40%;top: 10px;}
+.navbar-header {width: 100%;}
+
+.navbar-top-links li{float:right;margin:0 !important;}
+.navbar-top-links .dropdown-menu li{float:none;}
+.sidebar-search .custom-search-form{width:100%;}
+.sidebar-search .custom-search-form input{width:93%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a:hover{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a:hover{background-position:95% 54%;}
+.navbar-default{position:relative;}
+.top-shadow{width:100%;background-size:100%;}
+
+.work-order-list-btn ul li{width:32.9%;margin:0;}
+.work-order-list-btn ul li:last-child{margin:0;}
+.work-order-list-btn ul li button{width:100%;}
+.work-order-listing .table-responsive table tr td{padding:13px 10px;}
+.work-order-listing .table-responsive table th{padding:15px 10px;}
+.progres-level {margin: 20px 0 30px;}
+.pagination{width:51.4%;margin:0 0 30px 0;}
+
+}
+
+
+@media screen and (max-width: 360px) {
+.login-panel.panel.panel-default{margin:80px 0 0;}
+.logo-margin{margin:0;position:relative;width:100%;text-align:center;}
+.logo-margin a.login-logo{position:absolute;left: 0;top: 10px;width: 100%;z-index: 99;}
+.login-cont select, .login-cont input{width:83%;}
+.chk-box{width:100%;margin-top:0;}
+.login-cont a.btn{width:100%;}
+.form-group {margin-bottom: 20px;}
+.panel-body {padding-top: 70px;}
+.navbar-top-links li {margin-right: 0 !important;width: 100%;text-align: center;}
+.navbar-top-links li a{background-position:74% 50% !important;}
+.navbar-top-links .dropdown-menu li {display: block;text-align: left;}
+.dropdown-menu.dropdown-messages{width:100%;}
+.sidebar-search .custom-search-form{width:100%;}
+.sidebar-search .custom-search-form input{width:87%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a:hover{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a:hover{background-position:95% 54%;}
+.navbar-default{position:relative;}
+.work-order-list-btn ul li{width:100%;margin:0 0 15px 0;}
+.work-order-list-btn ul li:last-child{margin:0;}
+.work-order-list-btn ul li button{width:100%;}
+.work-order-listing .table-responsive table tr td{padding:13px 10px;}
+.work-order-listing .table-responsive table th{padding:15px 10px;}
+.progres-level {margin: 20px 0 30px;}
+.pagination{width:100%;margin:0 0 30px 0;}
+.pagination ul li a {padding: 8px 16.4px 10px;}
+}
+
+
+@media screen and (min-width: 361px) and (max-width: 480px) {
+.logo-margin{margin:0;position:relative;width:100%;text-align:center;}
+.form-group{margin-bottom:20px;}
+.login-cont select, .login-cont input{width:89%;}
+.panel-body{margin:70px 0 0;padding-top: 90px;}
+.login-logo {left: 36%;top: 10px;}
+.navbar-top-links li{float:right;margin:0 !important;}
+.navbar-top-links .dropdown-menu li{float:none;}
+.sidebar-search .custom-search-form{width:100%;}
+.sidebar-search .custom-search-form input{width: 91%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav a:hover{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a{background-position:95% 54%;}
+.side-nav-bar .sidebar-collapse ul.nav li.sub-nav.active a:hover{background-position:95% 54%;}
+.navbar-default{position:relative;}
+
+.work-order-list-btn ul li{width:32.5%;margin:0;}
+.work-order-list-btn ul li:last-child{margin:0;}
+.work-order-list-btn ul li button{width:100%;}
+.work-order-listing .table-responsive table tr td{padding:13px 10px;}
+.work-order-listing .table-responsive table th{padding:15px 10px;}
+.progres-level {margin: 20px 0 30px;}
+.pagination{width:100%;margin:0 0 30px 0;}
+.pagination ul li a {padding: 8px 16.4px 10px;}
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 960px) {
+.login-logo{left: 41.7%;}
+.navbar-top-links li{margin-right:0 !important;}
+.dropdown-menu.dropdown-messages{width: 182px;}
+.pagination{width:100%;margin:20px 0 0 0;}
+.work-order-listing .table-responsive table tr td{padding:13px 10px;}
+.work-order-listing .table-responsive table th{padding:15px 10px;}
+.work-order-list-btn ul li{margin:0;}
+}
+
+
+@media screen and (min-width: 961px) and (max-width: 1024px) {
+.login-logo{left: 30.9%;}
+}
